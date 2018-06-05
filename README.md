@@ -13,5 +13,4 @@ Mobilne aplikacije, Ak.g. 2017./2018.
 Voditelj: **Siniša Sovilj** (ssovilj@unipu.hr)
 
 
-
-![start](https://user-images.githubusercontent.com/22881291/40989901-85ccb8d0-68ef-11e8-9e21-94b8664531b7.jpg)
+![start](https://user-images.githubusercontent.com/22881291/40989969-b88de848-68ef-11e8-93d2-f7938c9588c0.jpg)
