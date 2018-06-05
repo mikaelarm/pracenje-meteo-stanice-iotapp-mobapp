@@ -14,3 +14,4 @@ Voditelj: **Siniša Sovilj** (ssovilj@unipu.hr)
 
 
 
+![start](https://user-images.githubusercontent.com/22881291/40989901-85ccb8d0-68ef-11e8-9e21-94b8664531b7.jpg)
